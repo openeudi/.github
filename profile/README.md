@@ -54,6 +54,6 @@ OpenEUDI tracks a moving regulatory and cryptographic target — the OpenID4VP, 
 
 ## Links
 
-[@openeudi/core](https://www.npmjs.com/package/@openeudi/core) · [@openeudi/openid4vp](https://www.npmjs.com/package/@openeudi/openid4vp) · [@openeudi/dcql](https://www.npmjs.com/package/@openeudi/dcql) · [Sponsor](https://github.com/sponsors/openeudi)
+[npm org](https://www.npmjs.com/org/openeudi) · [@openeudi/core](https://www.npmjs.com/package/@openeudi/core) · [@openeudi/openid4vp](https://www.npmjs.com/package/@openeudi/openid4vp) · [@openeudi/dcql](https://www.npmjs.com/package/@openeudi/dcql) · [Sponsor](https://github.com/sponsors/openeudi)
 
 Maintained by [Akos Foldesi](https://github.com/openeudi) · Apache-2.0
