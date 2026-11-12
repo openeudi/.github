@@ -12,7 +12,7 @@ The EU's [eIDAS 2.0 regulation (2024/1183)](https://eur-lex.europa.eu/eli/reg/20
 
 OpenEUDI fills that gap. It's the open-source, framework-agnostic, TypeScript-native reference implementation of the verifier side — so accepting an EU Wallet credential doesn't require a proprietary black box. All Apache-2.0, published to npm, developed in the open.
 
-> **Status:** `@openeudi/core` & `@openeudi/openid4vp` v0.8.0 · `@openeudi/dcql` v0.2.0 · OpenID Foundation conformance-tested in CI · tracking OpenID4VP 1.0 and the EUDI Architecture Reference Framework.
+> **Status:** pre-1.0, released often (current versions in the badges above) · OpenID Foundation conformance-tested in CI · tracking OpenID4VP 1.0 and the EUDI Architecture Reference Framework.
 
 ## Packages
 
@@ -56,4 +56,4 @@ OpenEUDI tracks a moving regulatory and cryptographic target — the OpenID4VP, 
 
 [npm org](https://www.npmjs.com/org/openeudi) · [@openeudi/core](https://www.npmjs.com/package/@openeudi/core) · [@openeudi/openid4vp](https://www.npmjs.com/package/@openeudi/openid4vp) · [@openeudi/dcql](https://www.npmjs.com/package/@openeudi/dcql) · [Sponsor](https://github.com/sponsors/openeudi)
 
-Maintained by [Akos Foldesi](https://github.com/openeudi) · Apache-2.0
+Maintained by [Akos Foldesi](https://github.com/BetelGuese) · Apache-2.0
